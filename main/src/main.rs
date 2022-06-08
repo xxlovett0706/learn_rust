@@ -9,5 +9,4 @@ fn main() {
     for item in v {
         println!("{}", item)
     }
-    println!("{:?}", v)
 }
